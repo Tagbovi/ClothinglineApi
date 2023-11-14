@@ -1,7 +1,7 @@
 # ClothinglineApi
  A minimal restful Api
  It displays name,Id,color and some other properties of the clothinglineApi
-
+install these packages ** MicrosoftEntityframeworkcore**, **Microsoftframework tools**,  I used the package  **Npgsql.Entityframeworkcore.Postgresql** for my postgres DB
 
 
 
